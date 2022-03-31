@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/openlayer-raster-layer/static/css/main.a3be7631.chunk.css",
+    "main.js": "/openlayer-raster-layer/static/js/main.294db6f4.chunk.js",
+    "main.js.map": "/openlayer-raster-layer/static/js/main.294db6f4.chunk.js.map",
+    "runtime-main.js": "/openlayer-raster-layer/static/js/runtime-main.6968aa95.js",
+    "runtime-main.js.map": "/openlayer-raster-layer/static/js/runtime-main.6968aa95.js.map",
+    "static/js/2.f27c4e37.chunk.js": "/openlayer-raster-layer/static/js/2.f27c4e37.chunk.js",
+    "static/js/2.f27c4e37.chunk.js.map": "/openlayer-raster-layer/static/js/2.f27c4e37.chunk.js.map",
+    "index.html": "/openlayer-raster-layer/index.html",
+    "precache-manifest.447a38ff46283d7e176cfee5e9cc057e.js": "/openlayer-raster-layer/precache-manifest.447a38ff46283d7e176cfee5e9cc057e.js",
+    "service-worker.js": "/openlayer-raster-layer/service-worker.js",
+    "static/css/main.a3be7631.chunk.css.map": "/openlayer-raster-layer/static/css/main.a3be7631.chunk.css.map",
+    "static/js/2.f27c4e37.chunk.js.LICENSE.txt": "/openlayer-raster-layer/static/js/2.f27c4e37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6968aa95.js",
+    "static/js/2.f27c4e37.chunk.js",
+    "static/css/main.a3be7631.chunk.css",
+    "static/js/main.294db6f4.chunk.js"
+  ]
+}
